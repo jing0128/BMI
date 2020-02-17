@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BmiApplication</string>
+    <string name="data_blank">欄位空白</string>
+
+    <!--MainActivity-->
+    <string name="main_tv_userName">姓名：</string>
+    <string name="main_tv_height">身高：</string>
+    <string name="main_tv_weight">體重：</string>
+    <string name="main_btn_calculate">計算</string>
+
+    <!--MainActivity end-->
+</resources>
